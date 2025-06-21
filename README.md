@@ -37,7 +37,7 @@ I'm a <strong>Software Engineer</strong> with a strong background in <strong>C++
   <br/>
   Embedded Linux (Raspberry Pi, sensors, cameras)  
   <br/>
-  AV Control Systems (ArduPilot, MAVLink, UART)
+  UAV Control Systems (ArduPilot, MAVLink, UART)
 </p>
 
 ---
