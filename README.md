@@ -6,7 +6,7 @@ I'm a <strong>Software Engineer</strong> with a strong background in <strong>C++
 
 ---
 
-<h3 align="center">Languages</h2>
+<h3 align="center">Languages</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" title="C"/>
@@ -14,7 +14,7 @@ I'm a <strong>Software Engineer</strong> with a strong background in <strong>C++
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>
 </p>
 
-<h3 align="center">Tools & Frameworks</h2>
+<h3 align="center">Tools & Frameworks</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="Qt" title="Qt"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" title="OpenCV"/>
@@ -26,30 +26,41 @@ I'm a <strong>Software Engineer</strong> with a strong background in <strong>C++
 
 ---
 
-### 📌 Areas of Expertise
+<h3 align="center">Areas of Expertise</h3>
 
-- 📚 Data Structures and Algorithms  
-- 🎨 Qt/QML GUI Development  
-- 🛠 Embedded Linux (Raspberry Pi, sensors, cameras)  
-- ✈️ UAV Control Systems (ArduPilot, MAVLink, UART)
-
----
-
-## 💼 Experience
-
-### 🛩 Software Engineer – AirWorker (Oct 2024 – Present)
-- Built control algorithms and tools for UAV platforms
-- Contributed to ArduPilot open-source flight stack
-- Created real-time data visualization GUIs using Qt/QML
-- Deployed systems on Raspberry Pi using MAVLink & OpenCV
-
-### 🧠 Intern – Picsart Academy (Jan 2023 – July 2024)
-- Mastered core data structures in C++ (arrays, trees, hash tables, graphs)
-- Worked with CMake, Git, and Linux for building and debugging C++ apps
+<p align="center">
+  Qt/QML GUI Development  
+  <br/>
+  Embedded Linux (Raspberry Pi, sensors, cameras)  
+  <br/>
+  AV Control Systems (ArduPilot, MAVLink, UART)
+</p>
 
 ---
 
-## 🌐 Contact
+<h3 align="center">Experience</h3>
+
+<p align="center"><strong>🛩 Software Engineer – AirWorker (Oct 2024 – Present)</strong></p>
+<p align="center">
+  Built control algorithms and tools for UAV platforms  
+  <br/>
+  Contributed to ArduPilot open-source flight stack  
+  <br/>
+  Created real-time data visualization GUIs using Qt/QML  
+  <br/>
+  Deployed systems on Raspberry Pi using MAVLink & OpenCV
+</p>
+
+<p align="center"><strong>🧠 Intern – Picsart Academy (Jan 2023 – July 2024)</strong></p>
+<p align="center">
+  Mastered core data structures in C++ (arrays, trees, hash tables, graphs)  
+  <br/>
+  Worked with CMake, Git, and Linux for building and debugging C++ apps
+</p>
+
+---
+
+<h3 align="center">🌐 Contact</h3>
 
 <p align="center">
   <a href="mailto:aramvardanyan13@gmail.com"><img src="https://img.shields.io/badge/email-aramvardanyan13%40gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/></a>
