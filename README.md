@@ -1,4 +1,8 @@
-<h1 align="center">Hi, I'm Aram Vardanyan</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
+<h1 align="center">I'm Aram Vardanyan</h1>
 
 <p align="center">
 I'm a <strong>Software Engineer</strong> with a strong background in <strong>C++, Qt, and embedded systems</strong>, currently working at <strong>AirWorker</strong> on UAV software development.
@@ -59,4 +63,8 @@ I'm a <strong>Software Engineer</strong> with a strong background in <strong>C++
   <a href="mailto:aramvardanyan13@gmail.com"><img src="https://img.shields.io/badge/email-aramvardanyan13%40gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/></a>
   <a href="https://linkedin.com/in/aram-vardanyan"><img src="https://img.shields.io/badge/LinkedIn-Aram%20Vardanyan-blue?style=flat&logo=linkedin"/></a>
   <a href="https://github.com/Aram-Vn"><img src="https://img.shields.io/badge/GitHub-Aram--Vn-333?style=flat&logo=github"/></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
