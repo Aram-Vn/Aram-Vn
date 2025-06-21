@@ -51,13 +51,6 @@ I'm a <strong>Software Engineer</strong> with a strong background in <strong>C++
   Deployed systems on Raspberry Pi using MAVLink & OpenCV
 </p>
 
-<p align="center"><strong>🧠 Intern – Picsart Academy (Jan 2023 – July 2024)</strong></p>
-<p align="center">
-  Mastered core data structures in C++ (arrays, trees, hash tables, graphs)  
-  <br/>
-  Worked with CMake, Git, and Linux for building and debugging C++ apps
-</p>
-
 ---
 
 <h3 align="center">🌐 Contact</h3>
