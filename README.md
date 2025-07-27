@@ -60,10 +60,24 @@ I'm a <strong>Software Engineer</strong> with a strong background in <strong>C++
 <h3 align="center">🌐 Contact</h3>
 
 <p align="center">
-  <a href="mailto:aramvardanyan13@gmail.com"><img src="https://img.shields.io/badge/email-aramvardanyan13%40gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/></a>
-  <a href="https://linkedin.com/in/aram-vardanyan"><img src="https://img.shields.io/badge/LinkedIn-Aram%20Vardanyan-blue?style=flat&logo=linkedin"/></a>
-  <a href="https://github.com/Aram-Vn"><img src="https://img.shields.io/badge/GitHub-Aram--Vn-333?style=flat&logo=github"/></a>
+  <a href="mailto:aramvardanyan13@gmail.com">
+    <img src="https://img.shields.io/badge/email-aramvardanyan13%40gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://linkedin.com/in/aram-vardanyan">
+    <img src="https://img.shields.io/badge/LinkedIn-Aram%20Vardanyan-blue?style=flat&logo=linkedin"/>
+  </a>
+
+<p align="center">
+  <br/><br/>
+  <a href="https://github.com/Aram-Vn">
+    <img src="https://img.shields.io/badge/GitHub-Aram--Vn-333?style=flat&logo=github"/>
+  </a>
+  <br/>
+  <span style="display:inline-block; margin-top: 5px;">⬆️ <em>recursion button ;)</em></span>
 </p>
+
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
