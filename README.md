@@ -66,6 +66,7 @@ I'm a <strong>Software Engineer</strong> with a strong background in <strong>C++
   <a href="https://linkedin.com/in/aram-vardanyan">
     <img src="https://img.shields.io/badge/LinkedIn-Aram%20Vardanyan-blue?style=flat&logo=linkedin"/>
   </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/Aram-Vn">
