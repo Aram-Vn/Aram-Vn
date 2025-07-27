@@ -68,13 +68,12 @@ I'm a <strong>Software Engineer</strong> with a strong background in <strong>C++
   </a>
 
 <p align="center">
-  <br/><br/>
   <a href="https://github.com/Aram-Vn">
-    <img src="https://img.shields.io/badge/GitHub-Aram--Vn-333?style=flat&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-Aram--Vn-333?style=flat&logo=github" alt="GitHub Badge"/>
   </a>
-  <br/>
-  <span style="display:inline-block; margin-top: 5px;">⬆️ <em>recursion button ;)</em></span>
+  <em>  ⇠ recursion button ;)</em>
 </p>
+
 
 
 
