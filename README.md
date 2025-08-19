@@ -52,11 +52,13 @@ I'm a <strong>Software Engineer</strong> with a strong background in <strong>C++
 <p align="center">
   Built control algorithms and tools for UAV platforms  
   <br/>
-  Contributed to ArduPilot open-source flight stack  
+  Write custom extensions for the ArduPilot open-source flight stack
   <br/>
   Created real-time data visualization GUIs using Qt/QML  
   <br/>
   Deployed systems on Raspberry Pi using MAVLink & OpenCV
+  <br/>
+  Integrate UART-based gimbal and camera control
 </p>
 
 ---
